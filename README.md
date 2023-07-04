@@ -19,8 +19,7 @@ Follow the [TB-database](https://github.com/TB-CORP/TB-database/blob/main/README
 ## Documentation
 In addition to the current usage guides and the .dbml file itself, there is a convenient way to overview and study the structure and design of the database, it is a graphic documentation. If you want to know how to use it or see this database graphic documentation, all the links in the [See also](#see-also) section.
 
-
 ## See also
-- [Graphic documentation]()
+- [Graphic documentation](https://dbdocs.io/khasanshadiyarov/TB-CF-database?view=relationships)
 - [DBML docs](https://www.dbml.org/docs)
 - [Dbdocs usage](https://dbdocs.io/docs/explore)
